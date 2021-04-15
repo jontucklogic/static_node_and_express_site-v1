@@ -1,0 +1,75 @@
+{
+  "projects": [
+    {
+      "id": 1,
+      "project_name": "Random Quote Generator",
+      "description": "An app that generates a random quote from a list of quotes, witha a click of a button.",
+      "technologies": ["HTML", "CSS", "JavaScript"],
+      "live_link": "https://yeinthu.github.io/project1_randomQuoteGenerator/",
+      "github_link": "https://github.com/YeinThu/project1_randomQuoteGenerator",
+      "image_urls": [
+        "../static/images/project1/pj1_1.png",
+        "../static/images/project1/pj1_2.png",
+        "../static/images/project1/pj1_3.png",
+        "../static/images/project1/pj1_4.png"
+      ]
+    },
+    {
+      "id": 2,
+      "project_name": "Data Pagination & Filtering",
+      "description": "An app that displays a gallery of users, with the help of a search filter and pagination to help displaying a certain number of users.",
+      "technologies": ["HTML", "CSS", "JavaScript"],
+      "live_link": "https://yeinthu.github.io/project2_dataPaginationAndFiltering/",
+      "github_link": "https://github.com/YeinThu/project2_dataPaginationAndFiltering",
+      "image_urls": [
+        "../static/images/project2/pj2_1.png",
+        "../static/images/project2/pj2_2.png",
+        "../static/images/project2/pj2_3.png",
+        "../static/images/project2/pj2_4.png"
+      ]
+    },
+    {
+      "id": 3,
+      "project_name": "Interactive Form",
+      "description": "An app that uses basic form validation to make sure all input fields are entered, entered correctly, and in the proper format.",
+      "technologies": ["HTML", "CSS", "JavaScript"],
+      "live_link": "https://yeinthu.github.io/project3_interactiveForm/",
+      "github_link": "https://github.com/YeinThu/project3_interactiveForm",
+      "image_urls": [
+        "../static/images/project3/pj3_1.png",
+        "../static/images/project3/pj3_2.png",
+        "../static/images/project3/pj3_3.png",
+        "../static/images/project3/pj3_4.png"
+      ]
+    },
+    {
+      "id": 4,
+      "project_name": "OOP GameShow App",
+      "description": "A letter guessing game that gives users the chance to guess the correct word before they lose all hearts!",
+      "technologies": ["HTML", "CSS", "JavaScript", "OOP"],
+      "live_link": "https://yeinthu.github.io/project4_oopGameShowApp/",
+      "github_link": "https://github.com/YeinThu/project4_oopGameShowApp",
+      "image_urls": [
+        "../static/images/project4/pj4_1.png",
+        "../static/images/project4/pj4_2.png",
+        "../static/images/project4/pj4_3.png",
+        "../static/images/project4/pj4_4.png",
+        "../static/images/project4/pj4_5.png"
+      ]
+    },
+    {
+      "id": 5,
+      "project_name": "Pubic API Requests",
+      "description": "An app that displays a random gallery of user profiles from an external API.",
+      "technologies": ["HTML", "CSS", "JavaScript", "API"],
+      "live_link": "https://yeinthu.github.io/project5_publicApiRequests/",
+      "github_link": "https://github.com/YeinThu/project5_publicApiRequests",
+      "image_urls": [
+        "../static/images/project5/pj5_1.png",
+        "../static/images/project5/pj5_2.png",
+        "../static/images/project5/pj5_3.png",
+        "../static/images/project5/pj5_4.png"
+      ]
+    }
+  ]
+}
